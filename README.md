@@ -10,7 +10,7 @@ Objectives of the following analytical report are as follows:
 •	To determine influential regions for future warehouse locations
 •	To describe more effective regional marketing campaigns based on the performed analyses 
 
-The overall goal of the analysis is to establish the future of Costco product and service availability. Successful and continuous business growth needs for each warehouse’s product and service repertoire to be assessed individually because each caters to a different audience based on their locations and varying consumer audiences. 
+The overall goal of the analysis is to establish the future of a retailer's product and service availability. Successful and continuous business growth needs for each warehouse’s product and service repertoire to be assessed individually because each caters to a different audience based on their locations and varying consumer audiences. 
 
 # Research Hypotheses
 The analysis explores purchasing trends and compare the performance of products and services as the selection of new products and services and pairings of existing products and services its planned. The analysis also identifies consumer categories based on their demographical responses to distinguish the target audience, thus improving the decision making of added products and services. The compilation of the product-based and consumer-based analysis leads to the determination of future locations, product and service availability, and promotion design. Business questions (BQ) and associating null (H0) and alternate (Hα) hypotheses are as follows:
