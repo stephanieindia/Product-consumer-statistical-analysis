@@ -4,10 +4,15 @@ This work uses surveyed data to uncover categorical interdependencies of consume
 # Objectives
 
 Objectives of the following analytical report are as follows:
+
 •	To explore purchasing trends as new products and services are considered
+
 •	To compare the performance of products and services in formulation of bundles 
+
 •	To identify a classification of consumers in pursuit of strategic audience targeting
+
 •	To determine influential regions for future warehouse locations
+
 •	To describe more effective regional marketing campaigns based on the performed analyses 
 
 The overall goal of the analysis is to establish the future of a retailer's product and service availability. Successful and continuous business growth needs for each warehouse’s product and service repertoire to be assessed individually because each caters to a different audience based on their locations and varying consumer audiences. 
