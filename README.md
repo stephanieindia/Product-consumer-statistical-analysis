@@ -1,5 +1,5 @@
 # Product-consumer-statistical-analysis
-This work uses surveyed data to uncover categorical interdependencies of consumer buying trends based on the public’s individual responses to a Consumer Expenditure Survey (CE). The analysis will aid to the definition of the organization’s product and service repertoire, as well as determine strategic approaches for the business’ progression. The results will not only determine recommended products and services, but also ways in which the existing products and services can be optimally marketed in certain divisional regions.
+This work uses surveyed data to uncover categorical interdependencies of consumer buying trends based on the public’s individual responses to a Consumer Expenditure Survey (CE). A reference of the full dataset among others in various formats for analysis, can be found using this link: https://www.bls.gov/cex/home.htm#products. The analysis will aid to the definition of the organization’s product and service repertoire, as well as determine strategic approaches for the business’ progression. The results will not only determine recommended products and services, but also ways in which the existing products and services can be optimally marketed in certain divisional regions.
 
 # Objectives
 
